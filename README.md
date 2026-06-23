@@ -1,2 +1,2 @@
 # Analiza-Slovenskih-Volitev
-Analiza volitev od leta 1991 do leta 2026. 
+Analiza volitev leta 2022 in leta 2026. 
